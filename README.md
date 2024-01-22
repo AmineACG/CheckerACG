@@ -1,7 +1,7 @@
 
 # CheckerACG
 This a Form of website Brute Forcing - used to manipulate a session ID and use it in an automated attack
-DO NOT USE IT FOR MALICIOUS PURPOSES , YOU WILL FACE SERIOUS LEGAL CONSEQUENCES YOU ARE AT YOUR OWN RISK
+DO NOT USE IT FOR MALICIOUS PURPOSES , YOU WILL FACE SERIOUS LEGAL CONSEQUENCES
 
 pr0xy check is used to check if a list of proxies has working proxies that will seperate them right after checking their usability
 
